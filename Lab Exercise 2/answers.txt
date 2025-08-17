@@ -1,0 +1,14 @@
+Lab - 02
+
+Task 2
+
+ Q1)
+     - With very few nodes, the network underfits (Lower accuracy).
+     - When increase nodes moderately, the model captures more complex patterns (Accuracy improves).
+     
+ Q2)
+     - It follows the bias variance tradeoff,
+ 	- Too small (high bias - underfitting)
+	- Moderate (best generalization)
+	- Too large (high variance - overfitting)	 
+    
